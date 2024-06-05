@@ -1,0 +1,1418 @@
+{
+    
+        
+            "city": [
+                {
+                    "city_id": "92874249-b1b5-4a4f-8e83-0a8c87735aec",
+                    "city_name": "Pune",
+                    "country": "India",
+                    "state": "Maharashtra",
+                    "state_id": "ac902f19-0a35-4500-98f6-d6c9818e9405"
+                }
+            ]
+        ,
+        
+            "marital_status": [
+                {
+                    "marital_status": "Single",
+                    "marital_status_code": 1
+                },
+                {
+                    "marital_status": "Married",
+                    "marital_status_code": 2
+                },
+                {
+                    "marital_status": "Divorced",
+                    "marital_status_code": 3
+                },
+                {
+                    "marital_status": "Widow / Widower",
+                    "marital_status_code": 4
+                }
+            ]
+        ,
+        
+            "relation_ship": [
+                {
+                    "relation_ship": "Father",
+                    "relation_ship_code": 1
+                },
+                {
+                    "relation_ship": "Mother",
+                    "relation_ship_code": 2
+                },
+                {
+                    "relation_ship": "Son",
+                    "relation_ship_code": 3
+                },
+                {
+                    "relation_ship": "Daughter",
+                    "relation_ship_code": 4
+                },
+                {
+                    "relation_ship": "Brother",
+                    "relation_ship_code": 5
+                },
+                {
+                    "relation_ship": "Sister",
+                    "relation_ship_code": 6
+                },
+                {
+                    "relation_ship": "Brother-in-law", "relation_ship_code": 7
+                },
+                {
+                    "relation_ship": "Sister-in-law",
+                    "relation_ship_code": 8
+                },
+                {
+                    "relation_ship": "Grandfather",
+                    "relation_ship_code": 9
+                },
+                {
+                    "relation_ship": "Grandmother",
+                    "relation_ship_code": 10
+                },
+                {
+                    "relation_ship": "Aunt",
+                    "relation_ship_code": 12
+                },
+                {
+                    "relation_ship": "Uncle",
+                    "relation_ship_code": 13
+                },
+                {
+                    "relation_ship": "Guardian",
+                    "relation_ship_code": 14
+                },
+                {
+                    "relation_ship": "Grandson",
+                    "relation_ship_code": 17
+                },
+                {
+                    "relation_ship": "Granddaughter",
+                    "relation_ship_code": 18
+                },
+                {
+                    "relation_ship": "Daughter-in-law",
+                    "relation_ship_code": 19
+                },
+                {
+                    "relation_ship": "Nephew",
+                    "relation_ship_code": 22
+                },
+                {
+                    "relation_ship": "Son-in-law",
+                    "relation_ship_code": 23
+                },
+                {
+                    "relation_ship": "Niece",
+                    "relation_ship_code": 24
+                },
+                {
+                    "relation_ship": "Friend",
+                    "relation_ship_code": 16
+                },
+                {
+                    "relation_ship": "Cousin",
+                    "relation_ship_code": 25
+                },
+                {
+                    "relation_ship": "Employer",
+                    "relation_ship_code": 26
+                },
+                {
+                    "relation_ship": "Employee",
+                    "relation_ship_code": 27
+                }
+            ]
+        ,
+        
+            "product": [
+                {
+                    "balance_requirement": [
+                        "Average Monthly  Balance Requirement of",
+                        "(Metro / Urban branches : Rs.10,000 or maintain a Fixed Deposit of Rs 1 Lakh)",
+                        "(Semi-Urban branches : Rs.5,000 or maintain a Fixed Deposit of Rs 50,000)",
+                        "Average Quarterly Balance Requirement of",
+                        "(Rural branches : Rs.2,500 or maintain a Fixed Deposit of Rs 25,000)"
+                    ],
+                    "channel": "ABC &P",
+                    "description": [
+                        "Flexibility to maintain either balance in savings account or maintain Fixed deposit linked to account",
+                        "Exclusive Millennia Debit with cashback on Online and offline spends",
+                        "Minimum 8 Free ATM transactions every month"
+                    ],
+                    "name": "Regular Savings Account",
+                    "product_code": "1132",
+                    "product_id": "710c81fc-96af-490b-b2a0-3d1c9b09e836"
+                }
+            ]
+        ,
+        
+            "branch": [
+                {
+                    "address": "Arizona Buld, Shop No.5, Opp. Kishin Leela Tower, Hardaswadi, Ganesh Purshottam Pai Road, Thane, Maharashtra",
+                    "branch_id": "0e926d58-6d27-4696-9509-dc8e042e41e4",
+                    "branch_name": "Thane East - Kopri Colony",
+                    "city": "Thane",
+                    "pincode": "400603"
+                }
+            ]
+        ,
+         
+                "employee_type": [
+                    {
+                        "employee_type_code": 19,
+                        "employment_description": "Agent",
+                        "field": [
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Type of your organization",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Self employed professional category",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 20,
+                        "employment_description": "Agriculturist/Farmer",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of your organization",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 17,
+                        "employment_description": "Business",
+                        "field": [
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 21,
+                        "employment_description": "Consultant/Advisor",
+                        "field": [
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 22,
+                        "employment_description": "Contractor",
+                        "field": [
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 23,
+                        "employment_description": "Driver",
+                        "field": [
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 26,
+                        "employment_description": "Free Lancer",
+                        "field": [
+                            {
+                                "employee_category": "Self employed professional category",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of your organization",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 6,
+                        "employment_description": "House Wife",
+                        "field": [
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 27,
+                        "employment_description": "Infant/Minor",
+                        "field": [
+                            {
+                                "employee_category": "Self employed professional category",
+                                "is_mandatory": false
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of your organization",
+                                "is_mandatory": false
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 28,
+                        "employment_description": "Intern",
+                        "field": [
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of your organization",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 29,
+                        "employment_description": "Investor",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 30,
+                        "employment_description": "Labourer",
+                        "field": [
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of your organization",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 31,
+                        "employment_description": "Micro Finance",
+                        "field": [
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 7,
+                        "employment_description": "Politician",
+                        "field": [
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 32,
+                        "employment_description": "Priest",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 33,
+                        "employment_description": "Retailer",
+                        "field": [
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 4,
+                        "employment_description": "Retired",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 2,
+                        "employment_description": "Salaried",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of your organization",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 35,
+                        "employment_description": "Salaried-Informal Sector",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 3,
+                        "employment_description": "Self Employed",
+                        "field": [
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 5,
+                        "employment_description": "Self Emp Prof",
+                        "field": [
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Self employed professional category",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 16,
+                        "employment_description": "Service Provider",
+                        "field": [
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 8,
+                        "employment_description": "Student",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 37,
+                        "employment_description": "Tailor",
+                        "field": [
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Self employed Since",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Incorporation date",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Nature of business",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Type of firm",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            }
+                        ]
+                    },
+                    {
+                        "employee_type_code": 9,
+                        "employment_description": "Unemployed",
+                        "field": [
+                            {
+                                "employee_category": "Residence type",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your annual Income",
+                                "is_mandatory": true
+                            },
+                            {
+                                "employee_category": "Your source of funds",
+                                "is_mandatory": true
+                            }
+                        ]
+                    }
+                ]
+            ,
+             
+                    "self_employed_professional": [
+                        {
+                            "self_employed_prof": "Accountant",
+                            "self_employed_prof_code": 7
+                        },
+                        {
+                            "self_employed_prof": "Actor",
+                            "self_employed_prof_code": 8
+                        },
+                        {
+                            "self_employed_prof": "Advocate",
+                            "self_employed_prof_code": 9
+                        },
+                        {
+                            "self_employed_prof": "Architect",
+                            "self_employed_prof_code": 5
+                        },
+                        {
+                            "self_employed_prof": "Art Director",
+                            "self_employed_prof_code": 10
+                        },
+                        {
+                            "self_employed_prof": "Artist",
+                            "self_employed_prof_code": 11
+                        },
+                        {
+                            "self_employed_prof": "Auditor",
+                            "self_employed_prof_code": 12
+                        },
+                        {
+                            "self_employed_prof": "Author",
+                            "self_employed_prof_code": 13
+                        },
+                        {
+                            "self_employed_prof": "Beautician",
+                            "self_employed_prof_code": 14
+                        },
+                        {
+                            "self_employed_prof": "CA/CS",
+                            "self_employed_prof_code": 3
+                        },
+                        {
+                            "self_employed_prof": "Cameraman",
+                            "self_employed_prof_code": 15
+                        },
+                        {
+                            "self_employed_prof": "CFA",
+                            "self_employed_prof_code": 16
+                        },
+                        {
+                            "self_employed_prof": "Chef",
+                            "self_employed_prof_code": 17
+                        },
+                        {
+                            "self_employed_prof": "Consultant",
+                            "self_employed_prof_code": 18
+                        },
+                        {
+                            "self_employed_prof": "Counsellor",
+                            "self_employed_prof_code": 19
+                        },
+                        {
+                            "self_employed_prof": "Designer",
+                            "self_employed_prof_code": 20
+                        },
+                        {
+                            "self_employed_prof": "Dietician",
+                            "self_employed_prof_code": 21
+                        },
+                        {
+                            "self_employed_prof": "Diver",
+                            "self_employed_prof_code": 22
+                        },
+                        {
+                            "self_employed_prof": "Doctor",
+                            "self_employed_prof_code": 2
+                        },
+                        {
+                            "self_employed_prof": "Engineer",
+                            "self_employed_prof_code": 23
+                        },
+                        {
+                            "self_employed_prof": "Fashion Designer",
+                            "self_employed_prof_code": 24
+                        },
+                        {
+                            "self_employed_prof": "Film Editor",
+                            "self_employed_prof_code": 25
+                        },
+                        {
+                            "self_employed_prof": "Graphic Designer",
+                            "self_employed_prof_code": 26
+                        },
+                        {
+                            "self_employed_prof": "Hair Stylist",
+                            "self_employed_prof_code": 27
+                        },
+                        {
+                            "self_employed_prof": "Interior Designer",
+                            "self_employed_prof_code": 28
+                        },
+                        {
+                            "self_employed_prof": "IT Consultant",
+                            "self_employed_prof_code": 6
+                        },
+                        {
+                            "self_employed_prof": "Lawyer",
+                            "self_employed_prof_code": 4
+                        },
+                        {
+                            "self_employed_prof": "Makeup professional",
+                            "self_employed_prof_code": 29
+                        },
+                        {
+                            "self_employed_prof": "Marketing professional",
+                            "self_employed_prof_code": 30
+                        },
+                        {
+                            "self_employed_prof": "Media Professional",
+                            "self_employed_prof_code": 31
+                        },
+                        {
+                            "self_employed_prof": "Musician",
+                            "self_employed_prof_code": 32
+                        },
+                        {
+                            "self_employed_prof": "Nurse",
+                            "self_employed_prof_code": 33
+                        },
+                        {
+                            "self_employed_prof": "Nutrionist",
+                            "self_employed_prof_code": 34
+                        },
+                        {
+                            "self_employed_prof": "Pathologist",
+                            "self_employed_prof_code": 35
+                        },
+                        {
+                            "self_employed_prof": "Photographer",
+                            "self_employed_prof_code": 36
+                        },
+                        {
+                            "self_employed_prof": "Professor",
+                            "self_employed_prof_code": 37
+                        },
+                        {
+                            "self_employed_prof": "Project Manager",
+                            "self_employed_prof_code": 38
+                        },
+                        {
+                            "self_employed_prof": "Singer",
+                            "self_employed_prof_code": 39
+                        },
+                        {
+                            "self_employed_prof": "Sportsman",
+                            "self_employed_prof_code": 40
+                        },
+                        {
+                            "self_employed_prof": "Teacher",
+                            "self_employed_prof_code": 41
+                        },
+                        {
+                            "self_employed_prof": "Therapist",
+                            "self_employed_prof_code": 42
+                        },
+                        {
+                            "self_employed_prof": "Trainer",
+                            "self_employed_prof_code": 43
+                        },
+                        {
+                            "self_employed_prof": "Web Designer",
+                            "self_employed_prof_code": 44
+                        },
+                        {
+                            "self_employed_prof": "Writer",
+                            "self_employed_prof_code": 45
+                        }
+                    ]
+                ,
+                
+                        "organization_type": [
+                            {
+                                "organization_type": "Agriculture",
+                                "organization_type_code": 9
+                            },
+                            {
+                                "organization_type": "Association",
+                                "organization_type_code": 10
+                            },
+                            {
+                                "organization_type": "Banks",
+                                "organization_type_code": 11
+                            },
+                            {
+                                "organization_type": "CA Firm",
+                                "organization_type_code": 12
+                            },
+                            {
+                                "organization_type": "Club",
+                                "organization_type_code": 13
+                            },
+                            {
+                                "organization_type": "Contract",
+                                "organization_type_code": 14
+                            },
+                            {
+                                "organization_type": "Co-operative",
+                                "organization_type_code": 15
+                            },
+                            {
+                                "organization_type": "Education institution",
+                                "organization_type_code": 16
+                            },
+                            {
+                                "organization_type": "Government",
+                                "organization_type_code": 8
+                            },
+                            {
+                                "organization_type": "Govt.Entity",
+                                "organization_type_code": 17
+                            },
+                            {
+                                "organization_type": "Healthcare",
+                                "organization_type_code": 18
+                            },
+                            {
+                                "organization_type": "Hospitality",
+                                "organization_type_code": 19
+                            },
+                            {
+                                "organization_type": "Individual",
+                                "organization_type_code": 20
+                            },
+                            {
+                                "organization_type": "LLC",
+                                "organization_type_code": 21
+                            },
+                            {
+                                "organization_type": "LLP",
+                                "organization_type_code": 22
+                            },
+                            {
+                                "organization_type": "Multinational",
+                                "organization_type_code": 4
+                            },
+                            {
+                                "organization_type": "NGO",
+                                "organization_type_code": 23
+                            },
+                            {
+                                "organization_type": "Partnership",
+                                "organization_type_code": 5
+                            },
+                            {
+                                "organization_type": "Private Ltd",
+                                "organization_type_code": 2
+                            },
+                            {
+                                "organization_type": "Proprietorship",
+                                "organization_type_code": 7
+                            },
+                            {
+                                "organization_type": "Public Limited",
+                                "organization_type_code": 3
+                            },
+                            {
+                                "organization_type": "Public sector",
+                                "organization_type_code": 6
+                            },
+                            {
+                                "organization_type": "Religious Institution",
+                                "organization_type_code": 24
+                            },
+                            {
+                                "organization_type": "Retail",
+                                "organization_type_code": 25
+                            },
+                            {
+                                "organization_type": "Society",
+                                "organization_type_code": 26
+                            },
+                            {
+                                "organization_type": "Trust",
+                                "organization_type_code": 27
+                            }
+                        ]
+                    ,
+                     
+                            "nature_of_businesses": [
+                                {
+                                    "nature_of_business": "Agriculture",
+                                    "nature_of_business_code": 4
+                                },
+                                {
+                                    "nature_of_business": "Association",
+                                    "nature_of_business_code": 13
+                                },
+                                {
+                                    "nature_of_business": "Bullion",
+                                    "nature_of_business_code": 8
+                                },
+                                {
+                                    "nature_of_business": "Bullion/Gold/Jewellery",
+                                    "nature_of_business_code": 9
+                                },
+                                {
+                                    "nature_of_business": "Club",
+                                    "nature_of_business_code": 15
+                                },
+                                {
+                                    "nature_of_business": "Commission Agent",
+                                    "nature_of_business_code": 16
+                                },
+                                {
+                                    "nature_of_business": "Construction",
+                                    "nature_of_business_code": 17
+                                },
+                                {
+                                    "nature_of_business": "Consultant",
+                                    "nature_of_business_code": 18
+                                },
+                                {
+                                    "nature_of_business": "Contractor",
+                                    "nature_of_business_code": 19
+                                },
+                                {
+                                    "nature_of_business": "Education Related",
+                                    "nature_of_business_code": 20
+                                },
+                                {
+                                    "nature_of_business": "Financial Activities",
+                                    "nature_of_business_code": 21
+                                },
+                                {
+                                    "nature_of_business": "Govt Entity",
+                                    "nature_of_business_code": 22
+                                },
+                                {
+                                    "nature_of_business": "Hospitality Ind",
+                                    "nature_of_business_code": 23
+                                },
+                                {
+                                    "nature_of_business": "HUF",
+                                    "nature_of_business_code": 24
+                                },
+                                {
+                                    "nature_of_business": "Investments",
+                                    "nature_of_business_code": 25
+                                },
+                                {
+                                    "nature_of_business": "Labour",
+                                    "nature_of_business_code": 26
+                                },
+                                {
+                                    "nature_of_business": "Manufacturing",
+                                    "nature_of_business_code": 2
+                                },
+                                {
+                                    "nature_of_business": "Media and Entertainment",
+                                    "nature_of_business_code": 27
+                                },
+                                {
+                                    "nature_of_business": "MFI",
+                                    "nature_of_business_code": 28
+                                },
+                                {
+                                    "nature_of_business": "Mining",
+                                    "nature_of_business_code": 29
+                                },
+                                {
+                                    "nature_of_business": "Money Lender",
+                                    "nature_of_business_code": 10
+                                },
+                                {
+                                    "nature_of_business": "NGO",
+                                    "nature_of_business_code": 30
+                                },
+                                {
+                                    "nature_of_business": "Real Estate",
+                                    "nature_of_business_code": 6
+                                },
+                                {
+                                    "nature_of_business": "Religious body/services",
+                                    "nature_of_business_code": 31
+                                },
+                                {
+                                    "nature_of_business": "Rental Income",
+                                    "nature_of_business_code": 32
+                                },
+                                {
+                                    "nature_of_business": "Retail Trading",
+                                    "nature_of_business_code": 11
+                                },
+                                {
+                                    "nature_of_business": "Self Help Group",
+                                    "nature_of_business_code": 33
+                                },
+                                {
+                                    "nature_of_business": "Service Provider",
+                                    "nature_of_business_code": 3
+                                },
+                                {
+                                    "nature_of_business": "Shipping and services",
+                                    "nature_of_business_code": 34
+                                },
+                                {
+                                    "nature_of_business": "Society",
+                                    "nature_of_business_code": 35
+                                },
+                                {
+                                    "nature_of_business": "Stock Broker",
+                                    "nature_of_business_code": 5
+                                },
+                                {
+                                    "nature_of_business": "Trader",
+                                    "nature_of_business_code": 7
+                                },
+                                {
+                                    "nature_of_business": "Transportation and Logistics",
+                                    "nature_of_business_code": 36
+                                },
+                                {
+                                    "nature_of_business": "Trust",
+                                    "nature_of_business_code": 37
+                                },
+                                {
+                                    "nature_of_business": "Wholesale Trading",
+                                    "nature_of_business_code": 12
+                                }
+                            ]
+                        ,
+                        
+                            "email_id": [
+                                "04091987@gmail.com",
+                                "1234567@gmail.com",
+                                "123456@gmail.com",
+                                "12345@gmail.com"
+                    ]
+                        ,
+                        
+                                "annual_income": [
+                                    {
+                                        "annual_income": "<50000",
+                                        "annual_income_code": 1
+                                    },
+                                    {
+                                        "annual_income": "50000-100000",
+                                        "annual_income_code": 2
+                                    },
+                                    {
+                                        "annual_income": "100000-300000",
+                                        "annual_income_code": 3
+                                    },
+                                    {
+                                        "annual_income": "300000-500000",
+                                        "annual_income_code": 4
+                                    },
+                                    {
+                                        "annual_income": "500000-750000",
+                                        "annual_income_code": 5
+                                    },
+                                    {
+                                        "annual_income": "750000-1000000",
+                                        "annual_income_code": 6
+                                    },
+                                    {
+                                        "annual_income": "1000000-1500000",
+                                        "annual_income_code": 7
+                                    },
+                                    {
+                                        "annual_income": ">1500000",
+                                        "annual_income_code": 8
+                                    },
+                                    {
+                                        "annual_income": "1500000-2500000",
+                                        "annual_income_code": 9
+                                    },
+                                    {
+                                        "annual_income": "2500000-5000000",
+                                        "annual_income_code": 10
+                                    },
+                                    {
+                                        "annual_income": "5000000-10000000",
+                                        "annual_income_code": 11
+                                    },
+                                    {
+                                        "annual_income": ">10000000",
+                                        "annual_income_code": 12
+                                    }
+                                ]
+                            ,
+                            
+                                    "residence_type": [
+                                        {
+                                            "residence_type": "Ancestral/Family",
+                                            "residence_type_code": 4
+                                        },
+                                        {
+                                            "residence_type": "Company Provided",
+                                            "residence_type_code": 5
+                                        },
+                                        {
+                                            "residence_type": "Owned",
+                                            "residence_type_code": 2
+                                        },
+                                        {
+                                            "residence_type": "Rented/Leased",
+                                            "residence_type_code": 3
+                                        }
+                                    ]
+                                ,
+                                
+                                    "firm_type": [
+                                        {
+                                            "firm_type": "Agriculture",
+                                            "firm_type_code": 12
+                                        },
+                                        {
+                                            "firm_type": "Government",
+                                            "firm_type_code": 8
+                                        },
+                                        {
+                                            "firm_type": "HUF",
+                                            "firm_type_code": 13
+                                        },
+                                        {
+                                            "firm_type": "Individual business/work",
+                                            "firm_type_code": 14
+                                        },
+                                        {
+                                            "firm_type": "Labourer",
+                                            "firm_type_code": 15
+                                        },
+                                        {
+                                            "firm_type": "Limited Liability Co",
+                                            "firm_type_code": 16
+                                        },
+                                        {
+                                            "firm_type": "LLP",
+                                            "firm_type_code": 17
+                                        },
+                                        {
+                                            "firm_type": "Manufacturing",
+                                            "firm_type_code": 9
+                                        },
+                                        {
+                                            "firm_type": "Multinational",
+                                            "firm_type_code": 4
+                                        },
+                                        {
+                                            "firm_type": "PARTNERSHIP",
+                                            "firm_type_code": 5
+                                        },
+                                        {
+                                            "firm_type": "Private Ltd Co",
+                                            "firm_type_code": 2
+                                        },
+                                        {
+                                            "firm_type": "Public Limited Co.",
+                                            "firm_type_code": 3
+                                        },
+                                        {
+                                            "firm_type": "Public Sector",
+                                            "firm_type_code": 6
+                                        },
+                                        {
+                                            "firm_type": "Service Provider",
+                                            "firm_type_code": 10
+                                        },
+                                        {
+                                            "firm_type": "SHG",
+                                            "firm_type_code": 18
+                                        },
+                                        {
+                                            "firm_type": "Sole Proprietorship",
+                                            "firm_type_code": 7
+                                        },
+                                        {
+                                            "firm_type": "Trade/Retail/Whole",
+                                            "firm_type_code": 11
+                                        }
+                                    ]
+                                }
+                            
+
+                     
+                 
+             
+         
+           
